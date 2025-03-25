@@ -1,5 +1,3 @@
-# themujammil
-My Github Profile
 # Hey there, I'm Mujammil-ios! 👋
 
 I'm a code-slinging Android engineer by day and a Flutter, React Native, and NodeJS enthusiast by night. Sometimes I even flirt with iOS Swift—because why should one language have all the fun? When I'm not busy chasing bugs in my code, I'm probably chasing a good cup of coffee. ☕️
