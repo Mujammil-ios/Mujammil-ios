@@ -16,8 +16,6 @@
 
 ---
 
-### 🔥 **Current Stats** 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mujammil-ios&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ### 📊 **Activity Chart**
 [![Mujammil's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mujammil-ios&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -90,9 +88,5 @@
 ![Mujammil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mujammil-ios&show_icons=true&theme=vision-friendly-dark&hide_border=true)
 
 ---
-
-<p align="center">
-  <img src="https://github.com/Mujammil-ios/Mujammil-ios/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
 
 *Last updated: Whenever GitHub Actions remembers to run* 🦥
